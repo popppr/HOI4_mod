@@ -42,7 +42,7 @@ ideas = {
 			cancel_if_invalid = no
 			level = 8
 			modifier = {
-				MONTHLY_POPULATION = 100
+				MONTHLY_POPULATION = 1000
 			}
 		}
 		cheat_nothingpopulation={
